@@ -1,5 +1,5 @@
-# Dando inicio ao projeto
-ESse projeto foi criado utilizando o recurso [Create React App](https://github.com/facebook/create-react-app).
+# Executando o projeto
+Esse projeto foi criado utilizando o recurso [Create React App](https://github.com/facebook/create-react-app).
 
 ## Instalação
 
