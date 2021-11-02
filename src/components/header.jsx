@@ -4,7 +4,11 @@ import logo from '../assets/pokemon-logo.png';
 export default function Header() {
     return (
         <div className={styles.header}>
-            <img className={styles.logo} src={logo}></img>
+            <img 
+                className={styles.logo} 
+                alt="Logo Pokemon"
+                src={logo}
+            />
         </div>
     )
 }
